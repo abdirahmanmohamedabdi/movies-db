@@ -1,7 +1,8 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import MovieCard from "./Movie";
+// import MovieCard from "./Movie";
 import { Navbar, Container } from "react-bootstrap";
-import Movie from './MoviesData'
+// import Movie from './MoviesData'
+import MovieCtx from './components/MovieCtx'
 
 function App() {
   return (
@@ -13,8 +14,11 @@ function App() {
           </Container>
         </Navbar>
       </header>
-      <MovieCard />
-      <Movie/> 
+      <main>
+        <MovieCtx />
+      </main>
+      {/* <MovieCard/> */}
+      {/* <Movie/>  */}
     </div>
   );
 }
