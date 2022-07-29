@@ -12,6 +12,7 @@ function MovieCard({movie}) {
                 <Card.Text> Release Date:{movie.year}</Card.Text>
                 <Card.Text> Score :{movie.score}</Card.Text>
                 <Card.Text> Type:{movie.type}</Card.Text>
+                <Card.Text> Review:{movie.review}</Card.Text>
               </Card>
             </Col>
       </div>
