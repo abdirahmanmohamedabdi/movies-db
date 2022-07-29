@@ -23,7 +23,7 @@ changeHandler = e  => {
       <div>
           <form onSubmit={this.submitHandler}>
               <input type= "text" name ="review" value = {review} onChange={this.changeHandler }/>
-              <button type = "Submit">Submit"</button>
+              <button type = "Submit">Submit Review</button>
           </form> 
       </div>
     )
