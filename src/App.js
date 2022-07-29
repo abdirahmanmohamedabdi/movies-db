@@ -1,28 +1,19 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-// import MovieCard from "./Movie";
-import { Navbar, Container } from "react-bootstrap";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 // import Movie from './MoviesData'
-import MovieCtx from './components/MovieCtx'
-import SearchBar from "./components/Search";
+import MovieCtx from "./components/MovieCtx";
 import PostReivew from "./components/PostReivew";
+import Nav from "./components/Navbar";
 
 function App() {
   return (
     <div className="App">
       <header>
-        
-        <Navbar expand="lg" variant="dark" bg="dark">
-          
-          <Container>
-            
-            <Navbar.Brand href="#">Movies-db</Navbar.Brand>
-            <label>Search BAR</label>
-          </Container>
-        </Navbar>
+        <Nav />
       </header>
       <main>
         <MovieCtx />
-        <PostReivew/>
+        {/* <PostReivew/> */}
       </main>
       {/* <MovieCard/> */}
       {/* <Movie/>  */}
