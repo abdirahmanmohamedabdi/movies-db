@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import MovieCard from "./MovieCard";
 
 function MovieCtx() {
-  const apiUrl = "http://localhost:3000/movies";
+  const apiUrl = "http://localhost:3000/movies/?_embed=reviews";
   let [movies, setMovies] = useState([]);
   useEffect(() => {
     fetch(apiUrl)
