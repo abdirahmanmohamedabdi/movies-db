@@ -7,8 +7,7 @@
       "year": 2015,
       "likes": 8,
       "score": 82,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt5323662",
@@ -16,8 +15,7 @@
       "image": "https://i.ibb.co/FnWQG5h/a-silent-voice.jpg",
       "year": 2016,
       "score": 85,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0060938",
@@ -25,8 +23,7 @@
       "image": "https://i.ibb.co/1ssPkNk/santo-vs-the-martian-invasion.jpg",
       "year": 1967,
       "score": 20,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt4943934",
@@ -34,8 +31,7 @@
       "image": "https://i.ibb.co/nD6v4dv/martian-land.jpg",
       "year": 2015,
       "score": 15,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt3199240",
@@ -43,8 +39,7 @@
       "image": "https://i.ibb.co/ZX9C2rV/the-great-martian-war.jpg",
       "year": 2013,
       "score": 10,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0407924",
@@ -52,8 +47,7 @@
       "image": "https://i.ibb.co/KLSRgkL/Martian-Successor-Nadesico-The-Motion-Picture-Prince-of-Darkness.jpg",
       "year": 1998,
       "score": 0,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0485323",
@@ -61,8 +55,7 @@
       "image": "https://i.ibb.co/17HDdvT/Fullmetal-Alchemist-the-Movie-Conqueror-of-Shamballa.jpg",
       "year": 2005,
       "score": 74,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt2290828",
@@ -70,8 +63,7 @@
       "image": "https://i.ibb.co/sFPg80t/Road-to-Ninja-Naruto-the-Movie.jpg",
       "year": 2012,
       "score": 74,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0117128",
@@ -79,8 +71,7 @@
       "image": "https://i.ibb.co/C6JYpKH/Mystery-Science-Theater-3000-The-Movie.jpg",
       "year": 1996,
       "score": 73,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0075222",
@@ -88,8 +79,7 @@
       "image": "https://i.ibb.co/G7TGs2v/silent-movie.jpg",
       "year": 1976,
       "score": 72,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0099472",
@@ -97,8 +87,7 @@
       "image": "https://i.ibb.co/M2St9pV/Duck-Tales-The-Movie-Treasure-of-the-Lost-Lamp.jpg",
       "year": 1990,
       "score": 71,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt3010660",
@@ -106,8 +95,7 @@
       "image": "https://i.ibb.co/MnVfgQc/Stromberg-The-Movie.jpg",
       "year": 2014,
       "score": 71,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt2091256",
@@ -115,8 +103,7 @@
       "image": "https://i.ibb.co/cwBLcsT/Captain-Underpants-The-First-Epic-Movie.jpg",
       "year": 2017,
       "score": 70,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt2452042",
@@ -124,8 +111,7 @@
       "image": "https://i.ibb.co/kBR7KBV/The-Peanuts-Movie.jpg",
       "year": 2015,
       "score": 70,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt4219130",
@@ -133,8 +119,7 @@
       "image": "https://i.ibb.co/5hP7cZt/Psycho-Pass-The-Movie.jpg",
       "year": 2015,
       "score": 70,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1369845",
@@ -142,8 +127,7 @@
       "image": "https://i.ibb.co/2tR2yt4/Wizards-of-Waverly-Place-The-Movie.jpg",
       "year": 2009,
       "score": 64,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1776196",
@@ -151,8 +135,7 @@
       "image": "https://i.ibb.co/LSL4tN6/Fullmetal-Alchemist-the-Movie-The-Sacred-Star-of-Milos.jpg",
       "year": 2011,
       "score": 64,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1703048",
@@ -160,8 +143,7 @@
       "image": "https://i.ibb.co/ky03Tr4/Naruto-Shippuden-the-Movie-The-Lost-Tower.jpg",
       "year": 2010,
       "score": 64,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1105263",
@@ -169,8 +151,7 @@
       "image": "https://i.ibb.co/VD6m8D5/Bleach-the-Movie-Memories-of-Nobody.jpg",
       "year": 2006,
       "score": 64,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0491703",
@@ -178,8 +159,7 @@
       "image": "https://i.ibb.co/MC3Q5cD/Ultimate-Avengers-The-Movie.jpg",
       "year": 2006,
       "score": 63,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0814243",
@@ -187,8 +167,7 @@
       "image": "https://i.ibb.co/M7FTMbb/One-Piece-The-Movie.jpg",
       "year": 2000,
       "score": 63,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1148261",
@@ -196,8 +175,7 @@
       "image": "https://i.ibb.co/6Ws4kPt/Bleach-the-Movie-The-Diamond-Dust-Rebellion.jpg",
       "year": 2007,
       "score": 63,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt2323836",
@@ -205,8 +183,7 @@
       "image": "https://i.ibb.co/Dkb2PPB/anohana-The-Flower-We-Saw-That-Day-The-Movie.jpg",
       "year": 2013,
       "score": 63,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1909796",
@@ -214,8 +191,7 @@
       "image": "https://i.ibb.co/CsDgLPw/K-ON-The-Movie.jpg",
       "year": 2011,
       "score": 63,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt2279373",
@@ -223,8 +199,7 @@
       "image": "https://i.ibb.co/Y7vDdbX/The-Sponge-Bob-Movie-Sponge-Out-of-Water.jpg",
       "year": 2015,
       "score": 62,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0235679",
@@ -232,8 +207,7 @@
       "image": "https://i.ibb.co/LJ7Fv0v/Poke-mon-3-The-Movie.jpg",
       "year": 2000,
       "score": 62,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1922612",
@@ -241,8 +215,7 @@
       "image": "https://i.ibb.co/w057WHM/Glee-The-Concert-Movie.jpg",
       "year": 2011,
       "score": 62,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt0425601",
@@ -250,8 +223,7 @@
       "image": "https://i.ibb.co/J3tCjQr/Trailer-Park-Boys-The-Movie.jpg",
       "year": 2006,
       "score": 62,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1481363",
@@ -259,8 +231,7 @@
       "image": "https://i.ibb.co/3kr20TX/Naruto-Shippuden-the-Movie-The-Will-of-Fire.jpg",
       "year": 2009,
       "score": 62,
-      "type": "movie",
-      "review": ""
+      "type": "movie"
     },
     {
       "id": "tt1716772",
@@ -268,12 +239,11 @@
       "image": "https://i.ibb.co/KLHBYGC/The-Inbetweeners-Movie.jpg",
       "year": 2011,
       "score": 61,
-      "type": "movie",
-      "review": ""
-    },
-    {
-      "review": "",
-      "id": "XF7gHjw"
+      "type": "movie"
     }
+  ],
+  "reviews": [
+    
+    
   ]
 }
