@@ -1,21 +1,18 @@
 import "bootstrap/dist/css/bootstrap.min.css";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import MovieCtx from "./components/MovieCtx";
-import PostReivew from "./components/PostReivew";
 import Nav from "./components/Navbar";
 
 function App() {
   return (
-    <div className="App">
+    <div className="Nav">
       <header>
         <Nav />
       </header>
-      <main>
-        <MovieCtx />
-        {/* <PostReivew/> */}
-      </main>
-      {/* <MovieCard/> */}
-      {/* <Movie/>  */}
+      <div className="Main">
+        <main>
+          <MovieCtx />
+        </main>
+      </div>
     </div>
   );
 }
