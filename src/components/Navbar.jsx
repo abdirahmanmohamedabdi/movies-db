@@ -7,7 +7,7 @@ function Nav() {
         <Navbar expand="lg" variant="dark" bg="dark">
           <Container>
             <Navbar.Brand href="#">Movies-db</Navbar.Brand>
-            <label>Search BAR</label>
+
           </Container>
         </Navbar>
       </header>
