@@ -1,4 +1,7 @@
-import { Card, Col } from "react-bootstrap";
+import { Card, Col, ListGroup} from "react-bootstrap";
+import NewReview  from "./NewReview";
+
+
 
 function MovieCard({ movie }) {
   return (
@@ -6,12 +9,17 @@ function MovieCard({ movie }) {
       <Col>
         <Card>
           <Card.Img variant="top" src={movie.image} />
+          <ListGroup>
+          <ListGroup.Item>{movie.title}</ListGroup.Item>
+      <ListGroup.Item>{movie.year}</ListGroup.Item>
+      <ListGroup.Item>{movie.score}</ListGroup.Item>
+      <ListGroup.Item>{movie.type}</ListGroup.Item>
+      <ListGroup.Item>{<NewReview movieId={movie.id} />}</ListGroup.Item>
 
-          <Card.Title>Movie Title: {movie.title}</Card.Title>
-          <Card.Text> Release Date:{movie.year}</Card.Text>
-          <Card.Text> Score :{movie.score}</Card.Text>
-          <Card.Text> Type:{movie.type}</Card.Text>
-          <Card.Text> Review:{movie.review}</Card.Text>
+      
+
+          
+          </ListGroup>
         </Card>
       </Col>
     </div>
