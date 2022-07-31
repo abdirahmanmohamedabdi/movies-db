@@ -1,4 +1,4 @@
-A Movie Application using React JS ,allows the user to view movies scores,year of release,and name and also submit reviews.
+Movie-db is a Movie Application using React JS ,allows the user to view movies scores,year of release,and name and also submit reviews.
 
 React bootrap was also used in this project
 
