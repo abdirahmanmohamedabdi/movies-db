@@ -3,6 +3,8 @@ Movie-db is a Movie Application using React JS ,allows the user to view movies s
 React bootrap was also used in this project
 
 This is a responsive web application for viewing in both Mobile and Desktop.
+Link to the front end https://movies-db-abdi.netlify.app/
+
 
 
 
