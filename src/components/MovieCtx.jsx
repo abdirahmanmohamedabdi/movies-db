@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import MovieCard from "./MovieCard";
 
 function MovieCtx() {
-  const apiUrl = "http://localhost:3000/movies";
+  const apiUrl = "https://shrouded-badlands-00147.herokuapp.com/movies/?_embed=reviews";
   let [movies, setMovies] = useState([]);
   useEffect(() => {
     fetch(apiUrl)

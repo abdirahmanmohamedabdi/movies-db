@@ -11,14 +11,14 @@ function NewReview({ movieId }) {
   }
 
   function submitHandler(event) {
-    event.preventDefault();
+    event.preventDefault()
     if (review.length > 0) {
       const newReview = {
         movieId,
         review,
       };
       
-      fetch('http://localhost:3000/reviews',{
+      fetch('https://shrouded-badlands-00147.herokuapp.com/reviews',{
         method:'post',
         body: JSON.stringify(newReview),
         headers: {
@@ -29,6 +29,7 @@ function NewReview({ movieId }) {
       .then(() => {
         alert('Review posted successfully')
         setReview("")
+        window.location.reload()
       })
     }
   }
